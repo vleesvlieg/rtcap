@@ -1,0 +1,19 @@
+[package]
+name = "rtcap"
+version = "0.1.0"
+authors = ["Derk Bell <derk@logic.garden>"]
+edition = "2018"
+description = "raw traffic capture"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+documentation = "https://docs.rs/rtcap/"
+repository = "https://github.com/vleesvlieg/rtcap/"
+homepage = "https://github.com/vleesvlieg/rtcap/"
+categories = []
+keywords = []
+
+[dependencies.nix]
+version = "^0.15.0"
+
+[dependencies.snafu]
+version = "^0.5.0"

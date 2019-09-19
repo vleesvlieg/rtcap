@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "rtcap",
+  "rtcap-bin",
+  "rtcap-lib",
+  "rtcap-tests"
+]
